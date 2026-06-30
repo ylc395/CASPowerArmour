@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Recipe Users: TableMachining, FabricationBench -->
+  <Make_ArcticPowerArmorHelmet.label>制作海军头盔（极地）</Make_ArcticPowerArmorHelmet.label>
+  <Make_ArcticPowerArmorHelmet.description>制作海军头盔（极地）。</Make_ArcticPowerArmorHelmet.description>
+  <Make_ArcticPowerArmorHelmet.jobString>正在制作海军头盔（极地）。</Make_ArcticPowerArmorHelmet.jobString>
+  <Make_ArcticPowerArmor.label>制作海军装甲（极地）</Make_ArcticPowerArmor.label>
+  <Make_ArcticPowerArmor.description>制作海军装甲（极地）。</Make_ArcticPowerArmor.description>
+  <Make_ArcticPowerArmor.jobString>正在制作海军装甲（极地）</Make_ArcticPowerArmor.jobString>
+  <Make_DesertPowerArmorHelmet.label>制作海军头盔（沙漠）</Make_DesertPowerArmorHelmet.label>
+  <Make_DesertPowerArmorHelmet.description>制作海军头盔（沙漠）。</Make_DesertPowerArmorHelmet.description>
+  <Make_DesertPowerArmorHelmet.jobString>正在制作海军头盔（沙漠）</Make_DesertPowerArmorHelmet.jobString>
+  <Make_DesertPowerArmor.label>制作海军装甲（沙漠）</Make_DesertPowerArmor.label>
+  <Make_DesertPowerArmor.description>制作海军装甲（沙漠）。</Make_DesertPowerArmor.description>
+  <Make_DesertPowerArmor.jobString>正在制作海军装甲（沙漠）</Make_DesertPowerArmor.jobString>
+  <Make_JunglePowerArmorHelmet.label>制作海军头盔（丛林）</Make_JunglePowerArmorHelmet.label>
+  <Make_JunglePowerArmorHelmet.description>制作海军头盔（丛林）。</Make_JunglePowerArmorHelmet.description>
+  <Make_JunglePowerArmorHelmet.jobString>正在制作海军头盔（丛林）</Make_JunglePowerArmorHelmet.jobString>
+  <Make_JunglePowerArmor.label>制作海军装甲（丛林）</Make_JunglePowerArmor.label>
+  <Make_JunglePowerArmor.description>制作海军装甲（丛林）。</Make_JunglePowerArmor.description>
+  <Make_JunglePowerArmor.jobString>正在制作海军装甲（丛林）</Make_JunglePowerArmor.jobString>
+  <Make_StonePowerArmorHelmet.label>制作海军头盔（岩地）</Make_StonePowerArmorHelmet.label>
+  <Make_StonePowerArmorHelmet.description>制作海军头盔（岩地）。</Make_StonePowerArmorHelmet.description>
+  <Make_StonePowerArmorHelmet.jobString>正在制作海军头盔（岩地）</Make_StonePowerArmorHelmet.jobString>
+  <Make_StonePowerArmor.label>制作海军装甲（岩地）</Make_StonePowerArmor.label>
+  <Make_StonePowerArmor.description>制作海军装甲（岩地）。</Make_StonePowerArmor.description>
+  <Make_StonePowerArmor.jobString>正在制作海军装甲（岩地）</Make_StonePowerArmor.jobString>
+  <Make_UrbanPowerArmorHelmet.label>制作海军头盔（城市）</Make_UrbanPowerArmorHelmet.label>
+  <Make_UrbanPowerArmorHelmet.description>制作海军头盔（城市）。</Make_UrbanPowerArmorHelmet.description>
+  <Make_UrbanPowerArmorHelmet.jobString>正在制作海军头盔（城市）</Make_UrbanPowerArmorHelmet.jobString>
+  <Make_UrbanPowerArmor.label>制作海军装甲（城市）</Make_UrbanPowerArmor.label>
+  <Make_UrbanPowerArmor.description>制作海军装甲（城市）。</Make_UrbanPowerArmor.description>
+  <Make_UrbanPowerArmor.jobString>正在制作海军装甲（城市）</Make_UrbanPowerArmor.jobString>
+  <Make_WoodlandPowerArmorHelmet.label>制作海军头盔（林地）</Make_WoodlandPowerArmorHelmet.label>
+  <Make_WoodlandPowerArmorHelmet.description>制作海军头盔（林地）。</Make_WoodlandPowerArmorHelmet.description>
+  <Make_WoodlandPowerArmorHelmet.jobString>正在制作海军头盔（林地）</Make_WoodlandPowerArmorHelmet.jobString>
+  <Make_WoodlandPowerArmor.label>制作海军装甲（林地）</Make_WoodlandPowerArmor.label>
+  <Make_WoodlandPowerArmor.description>制作海军装甲（林地）。</Make_WoodlandPowerArmor.description>
+  <Make_WoodlandPowerArmor.jobString>正在制作海军装甲（林地）</Make_WoodlandPowerArmor.jobString>
+</LanguageData>
