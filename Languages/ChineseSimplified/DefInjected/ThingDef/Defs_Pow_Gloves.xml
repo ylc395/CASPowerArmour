@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CASPowArmGloves.label>海军手套</CASPowArmGloves.label>
+  <CASPowArmGloves.description>一副具有增强抓握辅助功能的陆战队手套，配有嵌入式后坐力稳定器。</CASPowArmGloves.description>
+  <CASPowArmGlovesArctic.label>海军手套（极地）</CASPowArmGlovesArctic.label>
+  <CASPowArmGlovesArctic.description>一副具有增强抓握辅助功能的陆战队手套，配有嵌入式后坐力稳定器。这是带有极地迷彩的版本。</CASPowArmGlovesArctic.description>
+  <CASPowArmGlovesDesert.label>海军手套（沙漠）</CASPowArmGlovesDesert.label>
+  <CASPowArmGlovesDesert.description>一副具有增强抓握辅助功能的陆战队手套，配有嵌入式后坐力稳定器。这是带有沙漠迷彩的版本。</CASPowArmGlovesDesert.description>
+  <CASPowArmGlovesJungle.label>海军手套（丛林）</CASPowArmGlovesJungle.label>
+  <CASPowArmGlovesJungle.description>一副具有增强抓握辅助功能的陆战队手套，配有嵌入式后坐力稳定器。这是带有丛林迷彩的版本。</CASPowArmGlovesJungle.description>
+  <CASPowArmGlovesStone.label>海军手套（岩地）</CASPowArmGlovesStone.label>
+  <CASPowArmGlovesStone.description>一副具有增强抓握辅助功能的陆战队手套，配有嵌入式后坐力稳定器。这是带有岩地迷彩的版本。</CASPowArmGlovesStone.description>
+  <CASPowArmGlovesUrban.label>海军手套（城市）</CASPowArmGlovesUrban.label>
+  <CASPowArmGlovesUrban.description>一副具有增强抓握辅助功能的陆战队手套，配有嵌入式后坐力稳定器。这是带有城市迷彩的版本。</CASPowArmGlovesUrban.description>
+  <CASPowArmGlovesWoodland.label>海军手套（林地）</CASPowArmGlovesWoodland.label>
+  <CASPowArmGlovesWoodland.description>一副具有增强抓握辅助功能的陆战队手套，配有嵌入式后坐力稳定器。这是带有林地迷彩的版本。</CASPowArmGlovesWoodland.description>
+</LanguageData>

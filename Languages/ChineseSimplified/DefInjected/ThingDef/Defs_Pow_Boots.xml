@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CASPowerArmBoots.label>海军战靴</CASPowerArmBoots.label>
+  <CASPowerArmBoots.description>一双采用层叠塑钢装甲板并配有增强型伺服电机的陆战队战靴。</CASPowerArmBoots.description>
+  <CASPowArmBootsArctic.label>海军战靴（极地）</CASPowArmBootsArctic.label>
+  <CASPowArmBootsArctic.description>一双采用层叠塑钢装甲板并配有增强型伺服电机的陆战队战靴。这是带有极地迷彩的版本。</CASPowArmBootsArctic.description>
+  <CASPowArmBootsDesert.label>海军战靴（沙漠）</CASPowArmBootsDesert.label>
+  <CASPowArmBootsDesert.description>一双采用层叠塑钢装甲板并配有增强型伺服电机的陆战队战靴。这是带有沙漠迷彩的版本。</CASPowArmBootsDesert.description>
+  <CASPowArmBootsJungle.label>海军战靴（丛林）</CASPowArmBootsJungle.label>
+  <CASPowArmBootsJungle.description>一双采用层叠塑钢装甲板并配有增强型伺服电机的陆战队战靴。这是带有丛林迷彩的版本。</CASPowArmBootsJungle.description>
+  <CASPowArmBootsStone.label>海军战靴（岩地）</CASPowArmBootsStone.label>
+  <CASPowArmBootsStone.description>一双采用层叠塑钢装甲板并配有增强型伺服电机的陆战队战靴。这是带有岩地迷彩的版本。</CASPowArmBootsStone.description>
+  <CASPowArmBootsUrban.label>海军战靴（城市）</CASPowArmBootsUrban.label>
+  <CASPowArmBootsUrban.description>一双采用层叠塑钢装甲板并配有增强型伺服电机的陆战队战靴。这是带有城市迷彩的版本。</CASPowArmBootsUrban.description>
+  <CASPowArmBootsWoodland.label>海军战靴（林地）</CASPowArmBootsWoodland.label>
+  <CASPowArmBootsWoodland.description>一双采用层叠塑钢装甲板并配有增强型伺服电机的陆战队战靴。这是带有林地迷彩的版本。</CASPowArmBootsWoodland.description>
+</LanguageData>
